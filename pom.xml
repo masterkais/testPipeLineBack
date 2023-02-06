@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>sonarqube-demo</artifactId>
-	<version>0.0.2-snapshot</version>
+	<version>0.0.3-snapshot</version>
 	<name>sonarqube-demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
